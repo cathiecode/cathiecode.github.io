@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://blog.superneko.com"
+baseurl = "https://cathiecode.github.io"
 languageCode = "ja"
 paginate = 10
 title = "0x0FC7"
